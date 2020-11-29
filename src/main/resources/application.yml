@@ -1,0 +1,6 @@
+scheduling:
+  task:
+    main:
+      initialDelay: 5000
+      fixedDelay: 1000
+urlDatasource: https://jsonplaceholder.typicode.com/todos
